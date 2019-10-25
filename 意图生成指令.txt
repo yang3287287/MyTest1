@@ -1,0 +1,20 @@
+IP:192.168.20.231
+账号：root
+密码：cirrus8215
+[终端意图上传程序]
+/cirrus_soft/IntentionDetect/bin/intention_detect
+/cirrus_soft/IntentionDetect/bin/intention_upload
+
+生成用户行为分析数据的命令/cirrusgate/bin/cirrus_analyse -s 2019-04-26 -e 2019-04-29
+
+
+UserIntentionToUpload
+
+quentin 17:34:10
+clientBehaviorDetail
+
+/var/lib/tomcat7/sysauth/uploadResult
+
+https://47.105.39.83:8443/operationService/services/operationService
+
+wang(it)@sankuai.info
