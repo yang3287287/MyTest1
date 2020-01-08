@@ -1,0 +1,172 @@
+[
+    {
+        "origSnapFile": "/opt/data/upload/origSnapFile/20180902/http_20180902_135218_98113",
+        "fileName": "信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+        "ipAddressSenderSegment": "内网",
+        "port_receiver": 80,
+        "eventMainBody": "",
+        "seriousLevel": "高",
+        "orgFullPath": "e18786791e33477680366da1e19d4ec2/d6b692f98a744c86b303d28e8fb1aacb",
+        "orgId": "d6b692f98a744c86b303d28e8fb1aacb",
+        "doctypeName": "信息安全巡检书",
+        "nowTime": "20180902135218",
+        "ipServerName": "DLP管理平台",
+        "protocol": "HTTP",
+        "timeStartParse": "20180902135317",
+        "macAddressReceiver": "74-1f-4a-71-70-a2",
+        "categoryList": [
+            {
+                "docTypeName": "信息安全巡检书",
+                "suggestAction": "审计",
+                "policyId": "6c42a08950224789a42001fc3f59efe8",
+                "policyName": "网络敏感数据外发监控",
+                "docTypeId": "d863deacf34c42329de0dc7f5afa13fd'",
+                "policyGroupName": "全局策略组",
+                "policyGroupId": "6d30ebb51d5e46f69b87e82b5c546ebb'"
+            }
+        ],
+        "doctypeId": "d863deacf34c42329de0dc7f5afa13fd'",
+        "email": "",
+        "policy": {
+            "highLevelConditionLab": 0,
+            "scanningBeginTime": "0:00",
+            "watermarkModel": {},
+            "externalPortModel": {},
+            "policyOrgReceiver": [],
+            "scanningDate": 1,
+            "categoryList": [
+                "08b86f9ec1cd4f19aa52cb50355dd923",
+                "abff805bde6145c89435f74e13946781",
+                "d863deacf34c42329de0dc7f5afa13fd'",
+                "e8a5284b8f5d4b1ab558011afc098e01"
+            ],
+            "id": "6c42a08950224789a42001fc3f59efe8'",
+            "workModule": "网络",
+            "riskFile": 0,
+            "workModuleFlag": "gateway",
+            "createByName": "alladmin",
+            "policyName": "网络敏感数据外发监控'",
+            "policyUserReceiver": [],
+            "updateTime": 1535867348000,
+            "protocolType": "All,HTTP,FTP,SMTP,POP3,IM,SMB,IMAP",
+            "showLevelCheckbox": "",
+            "policyGroup": {
+                "isAlive": 1,
+                "groupName": "全局策略组",
+                "createByName": "alladmin",
+                "createTime": 1535725836000,
+                "createById": "fd6cb702a85040ddb10331182881bbd9",
+                "updateTime": 1535867348000,
+                "id": "6d30ebb51d5e46f69b87e82b5c546ebb'"
+            },
+            "policyOrgApplyTo": [
+                "e18786791e33477680366da1e19d4ec2"
+            ],
+            "policyLevel": 3,
+            "policyUserApplyTo": [],
+            "createTime": 1535867348000,
+            "policyRoll": [],
+            "responseAction": "审计",
+            "policyType": {
+                "typeName": "通用策略",
+                "id": "3ee4f36688524a5d8069bb76d2e54f0a"
+            },
+            "scanningType": 0,
+            "createById": "fd6cb702a85040ddb10331182881bbd9",
+            "timeBucketLab": 0,
+            "effectiveFlag": 0,
+            "scanningPeriod": "10000"
+        },
+        "ipAddressReceiver": "123.125.50.97",
+        "finalAction": "审计",
+        "eventRemark": "",
+        "orgName": "未知用户组",
+        "policyName": "网络敏感数据外发监控'",
+        "receiveAddress": "http://wp.163.com/filehub/nf/file",
+        "fileServerPath": "/opt/data/upload/class/20180902/http_20180902_135218_98113_N24/信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+        "policyGroupName": "全局策略组",
+        "policyGroupId": "6d30ebb51d5e46f69b87e82b5c546ebb'",
+        "ipAddress": "192.168.30.208",
+        "messageId": "",
+        "matchCount": 1,
+        "policyNames": "网络敏感数据外发监控'",
+        "port_sender": 51754,
+        "userName": "192.168.30.208",
+        "ipAddressReceiverSegment": "内网",
+        "userId": "0",
+        "suggestAction": "审计",
+        "macAddress": "84-5b-12-30-6d-1b",
+        "policyId": "6c42a08950224789a42001fc3f59efe8'",
+        "fileSize": 556544,
+        "uName": "192.168.30.208",
+        "ipServer": "192.168.30.224",
+        "protocolOperate": "HTTP上传",
+        "actjson": {
+            "matchSummaryInfo": {
+                "matchLevelInfo": [
+                    {
+                        "matchDocumentCount": 1,
+                        "seriousLevel": "低",
+                        "levelId": "50989878d57747c48f01475b0cd5f3d1",
+                        "levelName": "其他"
+                    }
+                ],
+                "matchRuleInfo": [
+                    {
+                        "matchCount": 1,
+                        "matchDoctypeId": "d863deacf34c42329de0dc7f5afa13fd'",
+                        "matchDoctypeDes": "信息安全巡检书"
+                    }
+                ]
+            },
+            "platformInfo": "OS:Linux Ubuntu 14.04.4 LTS ",
+            "resultFrom": "From Scan",
+            "discoverTime": "2018-09-02 13:53:17",
+            "ruleVersion": "v13.8",
+            "formatMinorVer": 0,
+            "formatMajorVer": 3,
+            "matchDetailInfo": {
+                "doctypeList": [
+                    {
+                        "matchConditionList": [
+                            {
+                                "conditionMatchCount": 1,
+                                "conditionId": "05ffb90c699d45a0ac6743a00b8214d2",
+                                "conditionDes": "机器学习条件: 信息安全; 是否重复计数: 是; 位置:文件名,邮件标题,邮件正文,后缀名,VBA宏,页眉页脚,文件正文(全文),",
+                                "conditionName": "信息安全",
+                                "conditionType": "machineLearningCond"
+                            }
+                        ],
+                        "matchRuleTotalCount": 1,
+                        "seriousLevel": "低",
+                        "levelName": "其他",
+                        "matchRuleConditionDes": "信息安全 (信息安全: (相似度94%))",
+                        "matchRuleName": "信息安全",
+                        "doctypeName": "信息安全巡检书",
+                        "matchSummaryInfo": "<p>...信息安全<B style=\"color:black;background-color:#ffff66\">系统日常巡检指导书</B>（DMZ防火墙）...</p><p>...信息安全<B style=\"color:black;background-color:#ffff66\">系统日常巡检指导书\r\r</B>CPU、<B style=\"color:black;background-color:#ffff66\">内存使用率</B>、网络流量、会话...<br>...如下图所示：\r\u0001\r\r\r<B style=\"color:black;background-color:#ffff66\">许可证\r检查</B>方法：主页-&gt;许可...</p>",
+                        "doctypeDes": "",
+                        "levelId": "50989878d57747c48f01475b0cd5f3d1",
+                        "doctypeId": "d863deacf34c42329de0dc7f5afa13fd'",
+                        "matchRuleDes": "",
+                        "levelValue": 4,
+                        "matchRuleId": "ef6c856951fb4394accab2c3596ca19c"
+                    }
+                ],
+                "subFilePathName": "信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+                "extension": "doc",
+                "fileName": "信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+                "fileNameEncodeType": "utf8",
+                "encodeType": "utf8",
+                "fileSize": 556544,
+                "fileServerPath": "/opt/data/upload/class/20180902/http_20180902_135218_98113_N24/信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+                "filePathName": "/cirrus/memdata/parsed/11/http_20180902_135218_98113_N24/信息安全系统日常巡检指导书（DMZ防火墙）.doc",
+                "contentSummaryInfo": "信息安全系统日常巡检指导书\r\rCPU、内存使用率、网络流量、会话连接数\r检查方法：配置->主页->状态图，如下图所示\r\u0001 \r\u0001\r\rHA状态\r检查方法：主页->系统信息，如下图所示：\r\u0001\r\r\r许可证\r检查方法：主页->许可证，如下图所示：\r\u0001\r\r事件日志检查\r检查方法：日志->系统->事件日志，如下图所示：\r\u0001\r\r告警日志检查\r检查方法：日志->系统->告警日志，如下图所示：\r\u0001\r\r会话流量日志检查\r检查方法：",
+                "fileMD5": "6bf1300321a00f1ed7986680ccf04cfb"
+            },
+            "scanSdkDes": "ScanSDK Version: V3.0.1.4365; BuildTime: Aug 11 2018 17:56:32;"
+        },
+        "eventFrom": "gateway",
+        "fileType": "doc",
+        "orgFullPathName": "总部/未知用户组"
+    }
+]
