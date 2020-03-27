@@ -27,6 +27,8 @@ static char THIS_FILE[]=__FILE__;
 #define MD5_S23 14
 #define MD5_S24 20
 #define MD5_S31  4
+#define MD5_S31  4
+#define MD5_S32 11
 #define MD5_S32 11
 #define MD5_S33 16
 #define MD5_S34 23
