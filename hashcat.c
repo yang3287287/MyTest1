@@ -86,6 +86,12 @@ static int inner2_loop (hashcat_ctx_t *hashcat_ctx)
 
   status_ctx->words_off = 0;
   status_ctx->words_cur = 0;
+    status_progress_reset (hashcat_ctx);
+
+  status_ctx->msec_paused = 0;
+
+  status_ctx->words_off = 0;
+  status_ctx->words_cur = 0;
 
   if (restore_ctx->rd)
   {
